@@ -21,7 +21,7 @@ URL Shortener
 4. Создание короткой ссылки
    1. Вводим исходный url
    2. Время жизни в часах
-   3. Оимит переходов
+   3. Лимит переходов
 
 ![image](https://github.com/user-attachments/assets/09d2cf0d-7c6c-4dc9-9f4f-f3aceef3179c)
 
